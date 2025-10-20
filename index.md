@@ -1,7 +1,10 @@
---- 
---- 
 # Vũ Thái Bình Dương 
-<span class="iconify" data-icon="charm:person"></span> [binhduong-portfolio.netlify.app](https://binhduong-portfolio.netlify.app/) : <span class="iconify" data-icon="tabler:brand-github"></span> [github.com/BDuong31](https://github.com/BDuong31) : <span class="iconify" data-icon="tabler:phone"></span> [(+84) 0383635180](https://wa.me/0383635180) <span class="iconify" data-icon="ic:outline-location-on"></span> Nhà trọ Kim Hương, Đường Ni 8, Thới Hoà, TPHCM : <span class="iconify" data-icon="tabler:brand-linkedin"></span> [linkedin.com/in/bduonng/](https://www.linkedin.com/in/bduonng/) : <span class="iconify" data-icon="tabler:mail"></span> [binhduong31725@gmail.com](mailto:binhduong31725@gmail.com) 
+
+|  | |  |
+| :--- | :---: | ---: |
+| <img src="https://img.icons8.com/color/48/000000/internet.png" alt="Portfolio" width="16px" style="vertical-align: middle; margin-right: 5px;"/>  [binhduong-portfolio.netlify.app](https://binhduong-portfolio.netlify.app/) | <img src="https://img.icons8.com/color/48/000000/github.png" alt="Github" width="16px" style="vertical-align: middle; margin-right: 5px;"/>  [github.com/BDuong31](https://github.com/BDuong31) | <img src="https://img.icons8.com/color/48/000000/phone.png" alt="Phone" width="16px" style="vertical-align: middle; margin-right: 5px;"/>  (+84) 0383635180 |
+| <img src="https://img.icons8.com/color/48/000000/address.png" alt="Address" width="16px" style="vertical-align: middle; margin-right: 5px;"/>  Nhà trọ Kim Hương, Đường Ni 8, Thới Hoà, TPHCM | <img src="https://img.icons8.com/color/48/000000/link.png" alt="Link" width="16px" style="vertical-align: middle; margin-right: 5px;"/>  [linkedin.com/in/bduonng/](https://www.linkedin.com/in/bduonng/) | <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="email" width="16px" style="vertical-align: middle; margin-right: 5px;"/>  [binhduong31725@gmail.com](mailto:binhduong31725@gmail.com) |
+
 ## Experience 
 
 **Personal & Academic Projects** | Self-initiated & Vietnam Aviation Academy | 12/2023 - Present 
@@ -32,14 +35,23 @@
 - **Key technologies**: NextJS, Python, C++, NodeJS, Tinker Board R2.0 and E-ra IoT, LangChain, LLM
 - [Articles in VnExpress](https://vnexpress.net/sinh-vien-lam-hop-thong-minh-chi-dan-hanh-khach-o-san-bay-4732578.html)
 
-## Education 
-**B.S in Information Technology** 
-  : **Sep 2023 - Present** 
+## Education
 
-Vietnam Aviation Academy 
-  : Ho Chi Minh City, Viet Nam
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div style="width: 49%;">
+    <b>B.S in Information Technology</b>
+    </br>
+    Vietnam Aviation Academy
+    </br>
+    <b>GPA</b>: 3.13/4/0
+  </div>
+  <div style="width: 49%; text-align: right;">
+      <b>Sep 2023 - Present</b>
+      </br>
+      Ho Chi Minh City, Viet Nam
+  </div>
+</div>
 
-**GPA**: 3.13/4.0
 ## Skills 
 
 ### **Backend Development** 
